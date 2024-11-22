@@ -9,4 +9,6 @@
 📫 **Contact Me**: [kirubelwondwossen30@gmail.com](mailto:kirubelwondwossen30@gmail.com)
 
 ![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirubelWondwossen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirubelWondwossen&layout=compact&theme=radical)  
+
 
