@@ -8,6 +8,13 @@
 🎯 **Goal**: To develop seamless full-stack applications and contribute to impactful projects.  
 📫 **Contact Me**: [kirubelwondwossen30@gmail.com](mailto:kirubelwondwossen30@gmail.com)
 
+## 🌐 **Connect with Me**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubel-wondwossen-1578b9335)  
+[![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/yourusername)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+[![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+
 ## 🛠️ **Tech Stack**  
 
 ### **Front-End**  
