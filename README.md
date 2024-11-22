@@ -8,9 +8,8 @@
 📫 **Contact Me**: [kirubelwondwossen30@gmail.com](mailto:kirubelwondwossen30@gmail.com)
 
 
-## 🛠️ **Tech Stack**  
-
-### **Skills**  
+## 🛠️ **Skills**  
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,git,github,vscode)](https://skillicons.dev)
 
 ## 🌟 **Projects**  
