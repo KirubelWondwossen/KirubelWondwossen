@@ -18,10 +18,7 @@
 ## 🛠️ **Tech Stack**  
 
 ### **Front-End**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c++,java,git)](https://skillicons.dev)
 
 ![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirubelWondwossen&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirubelWondwossen&layout=compact&theme=radical)  
