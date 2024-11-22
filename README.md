@@ -18,7 +18,7 @@
 ## 🛠️ **Tech Stack**  
 
 ### **Front-End**  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c++,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,git)](https://skillicons.dev)
 
 ![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirubelWondwossen&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirubelWondwossen&layout=compact&theme=radical)  
