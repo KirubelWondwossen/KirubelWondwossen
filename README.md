@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Kirubel Wondwossen 
 
-# I'm Kirubel Wondwossen 
 **Aspiring Full-Stack Developer | Software Engineering Student**
 
 🌍 **Location**: Ethiopia 
