@@ -14,6 +14,13 @@
 ### **Skills**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,git,github,vscode)](https://skillicons.dev)
 
+## 🌟 **Projects**  
+
+### 📌 **[Responsive Website]**  
+- **Description**: It is a website i built when im learning CSS and HTML.  
+- **Tech Stack**: HTML, CSS, JavaScript  
+- **Features**: Responsive design.
+
 ## 📈 **GitHub Stats** 
 ![Kirubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirubelWondwossen&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirubelWondwossen&layout=compact&theme=radical)  
@@ -29,3 +36,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/KirubelWondwossen)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/KW92607)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Kirubel123445)  
+[Portfolio Website](#) *(Coming Soon!)* 
