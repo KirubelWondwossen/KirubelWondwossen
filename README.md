@@ -16,7 +16,7 @@
 
 ### 📌 **[Responsive Website]**  
 - **Description**: It is a website i built when im learning CSS and HTML.  
-- **Tech Stack**: HTML, CSS, JavaScript  
+- **Languages**: HTML, CSS, JavaScript  
 - **Features**: Responsive design.
 
 ## 📈 **GitHub Stats** 
