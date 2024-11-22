@@ -7,6 +7,14 @@
 🎯 **Goal**: To develop seamless full-stack applications and contribute to impactful projects.  
 📫 **Contact Me**: [kirubelwondwossen30@gmail.com](mailto:kirubelwondwossen30@gmail.com)
 
+---
+
+## 🧑‍💻 **About Me**  
+I am a passionate software engineering student currently pursuing my Bachelor's degree at Wachemo University. My journey into web development started with front-end technologies, and I am now expanding my skills into full-stack development. I love building interactive user interfaces and am eager to dive deeper into back-end development to build scalable, efficient applications.  
+
+I enjoy collaborating on projects, solving complex problems, and continually learning new technologies to improve my craft. Whether it’s front-end, back-end, or full-stack, I am driven by a passion for creating impactful digital solutions.
+
+---
 
 ## 🛠️ **Skills**  
  
