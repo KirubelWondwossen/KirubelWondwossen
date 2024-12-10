@@ -21,7 +21,7 @@ I am software engineering student currently studying my Bachelor's degree at Wac
 ## 🌟 **Projects**  
 
 ### 📌 **[Responsive Website]**  
-- **Description**: It is a website i built when im learning CSS and HTML.  
+- **Description**: It is a website i built when i was learning CSS and HTML.  
 - **Languages**: HTML, CSS, JavaScript  
 - **Features**: Responsive design.
 
