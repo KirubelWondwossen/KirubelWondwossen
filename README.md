@@ -30,9 +30,8 @@ I am software engineering student currently studying my Bachelor's degree at Wac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirubelWondwossen&layout=compact&theme=radical)  
 
 ## 🌱 **What I’m Learning**  
-1. Advanced JavaScript concepts and ES6+ features.  
-2. Building dynamic and interactive web applications with React.  
-3. Strengthening my understanding of front-end best practices.
+1. Advanced JavaScript concepts and ES6+ features. 
+2. Strengthening my understanding of front-end best practices.
 
 ## 🌐 **Connect with Me**  
 
