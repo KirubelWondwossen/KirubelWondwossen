@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-I am software engineering student currently studying my Bachelor's degree at Wachemo University. My journey into web development started with front-end technologies, and I am now expanding my skills into full-stack development.
+I am software engineering student currently studying my Bachelor's degree. My journey into web development started with front-end technologies, and I am now expanding my skills into full-stack development.
 
 ---
 
