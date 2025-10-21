@@ -16,7 +16,7 @@ I am software engineering student currently studying my Bachelor's degree at Wac
 
 ## 🛠️ **Skills**  
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,git,github,vscode,react,tailwind)](https://skillicons.dev)
 
 ## 🌟 **Projects**  
 
