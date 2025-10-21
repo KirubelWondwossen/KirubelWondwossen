@@ -24,7 +24,8 @@ I am software engineering student currently studying my Bachelor's degree. My jo
 - **Description**: It is a website i built when i was learning CSS and HTML.  
 - **Languages**: HTML, CSS, JavaScript  
 - **Features**: Responsive design.
-  ### 📌 **[Fitness Tracking Web App]**  
+  
+### 📌 **[Fitness Tracking Web App]**  
 - **Description**: It is a website i built when i was learning CSS and HTML.  
 - **Languages**: HTML, CSS, JavaScript, PHP, MySql  
 - **Features**: Tracks and records fitness progress and health status.
